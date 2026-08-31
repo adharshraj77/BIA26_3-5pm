@@ -1,0 +1,16 @@
+EmployeeID,EmployeeName,Gender,Age,Department,JobRole,Location,Salary,JoinDate
+E001,John Smith,Male,28,Sales,Sales Executive,New York,50000,2021-03-15
+E002,Priya Sharma,Female,32,IT,Software Engineer,Bangalore,70000,2020-07-10
+E003,Michael Brown,Male,35,HR,HR Executive,London,45000,2019-11-20
+E004,Emma Wilson,Female,29,Finance,Analyst,New York,60000,2022-01-05
+E005,David Lee,Male,40,Marketing,Manager,Bangalore,80000,2018-06-25
+E006,Sophia Patel,Female,27,IT,Data Analyst,Bangalore,65000,2021-09-12
+E007,Daniel Garcia,Male,31,Sales,Sales Executive,London,52000,2020-02-18
+E008,Olivia Martin,Female,45,Finance,Manager,New York,90000,2017-04-30
+E009,James Anderson,Male,38,Operations,Supervisor,London,55000,2019-08-14
+E010,Ava Thomas,Female,26,HR,HR Executive,Bangalore,48000,2022-05-22
+E011,William Harris,Male,50,Operations,Manager,New York,95000,2016-12-10
+E012,Isabella Clark,Female,34,Marketing,Analyst,London,62000,2020-10-01
+E013,Logan Lewis,Male,29,IT,Software Engineer,Bangalore,72000,2021-06-19
+E014,Mia Walker,Female,41,Finance,Manager,London,88000,2018-03-11
+E015,Ethan Hall,Male,33,Sales,Sales Executive,New York,53000,2019-09-27
